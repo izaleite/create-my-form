@@ -18,6 +18,12 @@ Em resumo, este projeto não só ampliou meus conhecimentos técnicos em formul�
 
 <br/>
 
+
+## 👩🏿‍💻 Stack utilizada
+**Front-end:** HTML, CSS
+
+<br/>
+
 ## 🧠 Melhorias Planejadas: Projeto de Formulário
 
 _Para aprimorar o projeto de formulário, tenho algumas melhorias em mente:_
